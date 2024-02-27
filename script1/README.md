@@ -1,6 +1,6 @@
 Este codigo lo que hace es generar 10 contenedores con un tamaño de "100" y les agrega un color aleatorio
 
-Primero lo que hago es seleccionar un elemento body y los almacena en si mismo, como lo vimos en la clase
+Primero lo que hago es seleccionar un elemento body y los almacena en si mismo
 <img width="335" alt="image" src="https://github.com/CoralCastillo/Topicos/assets/158122504/c2045ab7-0fe9-4544-ab04-9e6cdb4fe2f5">
 
 Despues declare un arreglo donde se contiene colores
