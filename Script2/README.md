@@ -14,7 +14,8 @@ ejecutara todo nuevamente
 <img width="443" alt="image" src="https://github.com/CoralCastillo/Topicos/assets/158122504/5de18521-253a-48fb-9194-6e22e1c129f1">
 
 Por ultimo, en esta parte del codigo, cree un arreglo en donde se almacenan los colores ya ustilizados, un for para que se inicialice
-20 veces, (que es el numero requerido de colores), se establece su tamaño y el backround.
+20 veces, (que es el numero requerido de colores), se establece su tamaño y el backroundColor para el fondo
+
 <img width="486" alt="image" src="https://github.com/CoralCastillo/Topicos/assets/158122504/bc330ce1-6125-4caf-b999-7aac07eec1da">
 
 
